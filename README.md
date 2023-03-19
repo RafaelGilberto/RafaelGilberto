@@ -1,4 +1,4 @@
- <h1 align="center">Hello! I'm Rafael👋</h1>
+ <h1 align="center">Hello! I'm Rafael😊</h1>
  <div align="center">
   <a href="https://www.linkedin.com/in/rafael-gilberto/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35rem" />
@@ -13,11 +13,11 @@
  <h2 align="center">About me</h2>
  <p align="center">Timezone: America/Sao Paulo (UTC-3) </p>
  <ul>
-  <li>I'm a FullStack Web Developer freelancer. </li>
-  <li>I'm looking for a job. </li>
-  <li>I'm currently learning TypeScript, Phyton and MySQL.</li>
-  <li>I'm did IronHack bootcamp.</li>  
-  <li>Fun fact: ...I studied Civil Engineering, but i want to become a developer.</li>
+  <li>💼 I'm a FullStack Web Developer </li>
+  <li>🤔 I'm looking for a job </li>
+  <li>💪 I'm currently learning TypeScript, Phyton and MySQL</li>
+  <li>⚡ I did IronHack bootcamp</li>  
+  <li>😄 Fun fact: ...I studied Civil Engineering, but i want to become a developer</li>
  </ul>
  <h2 align="center">Language and Tools</h2>
  <div align="center">
@@ -25,15 +25,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="50rem" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50rem" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50rem" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50rem" />               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50rem" />           
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50rem" />               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50rem" />
+           
  </div>
- <h2 align="center">Git info</h2>
- <div>
+ <h2 align="center">My Favorite Projects</h2>
+ <div align="center">
+ <table>  
+  <tr>
+   <a href="https://github.com/RafaelGilberto/recipesapp" height="150rem"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelGilberto&repo=recipesapp&theme=dracula"
+   </a>   
+   <a href="https://github.com/nikolasMendes/NARANI-front-end" height="150rem"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikolasMendes&repo=NARANI-front-end&theme=dracula"
+   </a>
+ </tr>
+ </table>
+ <div display="flex">
+   <th><img src="https://i.imgur.com/BKRzvHI.png" height="250rem" width="400rem"/></th>
+   <th><img src= https://i.imgur.com/WnSFI8S.png height="250rem" width="400rem"/></th>
+ </div>
+ </div>
+ <h2 align="center">Github info</h2>
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelGilberto&show_icons=true&theme=dracula" height="180rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGilberto&hide_progress=true&theme=dracula" height="205rem" width="400rem"/>
- </div>
  
-          
+ </div>
+        
   
 
 
