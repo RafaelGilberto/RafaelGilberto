@@ -1,5 +1,3 @@
-import "./index.css";
-
 <h1>Hello! I'm Rafael👋</h1>
 
 <!--
