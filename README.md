@@ -1,4 +1,4 @@
- <h1 align="center">Hello! I'm Rafael😊</h1>
+ <h1 align="center">Hello! I'm Rafael Gilberto😊</h1>
  <div align="center">
   <a href="https://www.linkedin.com/in/rafael-gilberto/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35rem" />
@@ -9,16 +9,22 @@
  </div>
  <br />
  <p>I`m a Full Stack Web Developer with Engineering background and i realized that problem solving, data analyzing and the digital world was what i liked the most. Understanding different points of view, user and developer, and teamwork is a must for developing good applications. I learned the main technologies available on the market such as: JavaScript (ES6), React, MongoDB, Express, NodeJS, HTML & CSS and some CSS frameworks like Tailwind and Bootstrap.</p>
-  
+ <div align="center">
+  <img src="https://cdn.picrew.me/shareImg/org/202303/338224_6wlatJ5E.png" height="150rem"/>
+ </div>
  <h2 align="center">About me</h2>
  <p align="center">Timezone: America/Sao Paulo (UTC-3) </p>
+ 
  <ul>
   <li>💼 I'm a FullStack Web Developer </li>
   <li>🤔 I'm looking for a job </li>
-  <li>💪 I'm currently learning TypeScript, Phyton and MySQL</li>
+  <li>💪 I'm currently learning TypeScript, Phyton and MySQL </li>
   <li>⚡ I did IronHack bootcamp</li>  
   <li>😄 Fun fact: ...I studied Civil Engineering, but i want to become a developer</li>
  </ul>
+ </div>
+ 
+ 
  <h2 align="center">Language and Tools</h2>
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50rem"/>  
