@@ -8,7 +8,7 @@
   </a>
  </div>
  <br />
- <p>I`m a Full Stack Web Developer with Engineering background and i realized that problem solving, data analyzing and the digital world was what i liked the most. Understanding different points of view, user and developer, and teamwork is a must for developing good applications. I learned the main technologies available on the market such as: JavaScript (ES6), React, MongoDB, Express, NodeJS, HTML & CSS and some CSS frameworks like Tailwind and Bootstrap.</p>
+ <p>I`m a Software Engineer with Engineering background and i realized that problem solving, data analyzing and the digital world was what i liked the most. Understanding different points of view, user and developer, and teamwork is a must for developing good applications. I learned the main technologies available on the market such as: JavaScript (ES6), React, MongoDB, Express, NodeJS, HTML & CSS and some CSS frameworks like Tailwind and Bootstrap.</p>
  <div align="center">
   <img src="https://cdn.picrew.me/shareImg/org/202303/338224_6wlatJ5E.png" height="150rem"/>
  </div>
