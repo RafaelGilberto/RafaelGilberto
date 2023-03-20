@@ -30,21 +30,22 @@
  </div>
  <h2 align="center">My Favorite Projects</h2>
  <div align="center">
- <table>  
-  <tr>
-   <a href="https://github.com/RafaelGilberto/recipesapp" height="150rem"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelGilberto&repo=recipesapp&theme=dracula"
-   </a>   
-   <a href="https://github.com/nikolasMendes/NARANI-front-end" height="150rem"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikolasMendes&repo=NARANI-front-end&theme=dracula"
-   </a>
- </tr>
- </table>
- <div display="flex">
-   <th><img src="https://i.imgur.com/BKRzvHI.png" height="250rem" width="400rem"/></th>
-   <th><img src= https://i.imgur.com/WnSFI8S.png height="250rem" width="400rem"/></th>
+  
+  <div>
+   <div>    
+    <a href="https://github.com/RafaelGilberto/recipesapp" height="150rem"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelGilberto&repo=recipesapp&theme=dracula"/>
+    </a>
+    <a href="https://github.com/nikolasMendes/NARANI-front-end" height="150rem"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikolasMendes&repo=NARANI-front-end&theme=dracula"/>
+    </a>
+   </div>
+   <div>
+    <img src="https://i.imgur.com/BKRzvHI.png" height="250rem" width="400rem"/>
+    <img src= "https://i.imgur.com/WnSFI8S.png" height="250rem" width="400rem"/>    
+   </div>
  </div>
- </div>
+ 
  <h2 align="center">Github info</h2>
  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafaelGilberto&show_icons=true&theme=dracula" height="180rem"/>
