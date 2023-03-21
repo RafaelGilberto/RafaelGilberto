@@ -16,7 +16,7 @@
  <p align="center">Timezone: America/Sao Paulo (UTC-3) </p>
  
  <ul>
-  <li>💼 I'm a FullStack Web Developer </li>
+  
   <li>🤔 I'm looking for a job </li>
   <li>💪 I'm currently learning TypeScript, Phyton and MySQL </li>
   <li>⚡ I did IronHack bootcamp</li>  
