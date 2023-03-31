@@ -20,7 +20,7 @@
   <li>🤔 I'm looking for a job </li>
   <li>💪 I'm currently learning TypeScript, Phyton and MySQL </li>
   <li>⚡ I did IronHack bootcamp</li>  
-  <li>😄 Fun fact: ...I studied Civil Engineering, but i want to become a developer</li>
+  
  </ul>
  </div>
  
