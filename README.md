@@ -10,7 +10,7 @@
  <br />
  <p>I`m a Software Engineer with Engineering background and i realized that problem solving, data analyzing and the digital world was what i liked the most. Understanding different points of view, user and developer, and teamwork is a must for developing good applications. I learned the main technologies available on the market such as: JavaScript (ES6), React, MongoDB, Express, NodeJS, HTML & CSS and some CSS frameworks like Tailwind and Bootstrap.</p>
  <div align="center">
-  <img src="https://ibb.co/vL7zJSp" height="150rem"/>
+  <img src="https://i.ibb.co/qmt1RvK/Rafael-Lima-men-smiling-draw-glasses-nerdemoji-eee66340-fc7f-4468-bdaf-1de3c320656c.png" height="150rem"/>
  </div>
  <h2 align="center">About me</h2>
  <p align="center">Timezone: America/Sao Paulo (UTC-3) </p>
